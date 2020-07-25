@@ -1,0 +1,85 @@
+<DOCTYPE HTML>
+<HTML><HEADER <IMG SRC="C:\Users\User\Downloads\AQUALOGOTOP.PNG" WIDTH="20PX" HEIGHT="20PX"> </HEADER>
+<TITTLE><B> AQUARIUM SERV & MAINTENANCE ⛑ </TITTLE> <BR><BR>
+<FIELDSET id="fs">
+<PRE><B> MAHI AQUARIUM SERVICES AND MAINTENANCE ⛑                                                             -BY PEER MOHAMMED                                                      CONTACT ON :<U>9892245165</U></B></PRE>                   
+</FIELDSET>
+<STYLE>
+body{
+      background-repeat:no repeat;
+      background-size: 100%;}
+
+
+
+TITTLE{ COLOR:RED;}
+H1{COLOR:LIGHTYELLOW;}
+#fs{border:2px solid blue; color:lightyellow; }
+
+
+#bigd{background-color:blue;width:100%;height:50px;
+           position:absolute;}
+#HOM{
+        BACKGROUND-COLOR:BLUE;WIDTH:200PX;HEIGHT:27PX;COLOR:LIGHTYELLOW;
+                POSITION:RELATIVE;
+           BORDER:2PX SOLID LIGHTYELLOW;LEFT:50PX;TOP:8PX;
+             TEXT-ALIGN:CENTER;
+           }
+HR{BORDER-COLOR:BLUE;}
+#SER{BACKGROUND-COLOR:blue;;WIDTH:200PX;HEIGHT:27PX;COLOR:LIGHTYELLOW;
+       position:relative;left:375px;BOTTOM:25PX;
+          text-align:center;padding-top:4px;
+           border:2px solid lightyellow;
+       }
+#ABS{BACKGROUND-COLOR:blue;
+         WIDTH:200PX;HEIGHT:27PX;COLOR:LIGHTYELLOW;
+    position:relative;left:750px;bottom:60px;
+            text-align:center;padding-top:5px;
+              border:2px solid lightyellow;
+   } 
+#CNT{BACKGROUND-COLOR:blue;
+        WIDTH:200PX;HEIGHT:27PX;  COLOR:LIGHTYELLOW;
+  position:relative;left:1200px;bottom:95px;
+           text-align:center;padding-top:3px;
+             border:2px solid lightyellow;
+   }
+
+
+a:hover{color:lightgreen;}
+a:active{color:red;}
+MARQUEE{COLOR:LIGHTYELLOW;BACKGROUND-COLOR:BLUE ; }
+PRE{COLOR:LIGHTYELLOW;
+}
+#HOM1{FONT-SIZE:40PX;}
+</STYLE>
+<BODY  background="C:\Users\User\Downloads\aqua.jpg" >
+<PRE>                                                                            
+                                                                               <IMG SRC="C:\Users\User\Downloads\LOGO.PNG" WIDTH="280PX" HEIGHT="70PX"> 
+</PRE>
+<HR>
+<HR><br>
+<PRE ID="HOM1">                                <B><U>HOME</U></B></PRE>
+<div id="bigd">
+<DIV ID="HOM"><a href="file:///C:/Users/User/OneDrive/Documents/AQUARIUM.HTML">HOME</a></DIV>
+<DIV ID="SER"><a href="file:///C:/Users/User/OneDrive/Documents/AQUA-SERVICES.HTML">
+SERVICES </a>
+</DIV>
+<DIV ID="ABS"><a href="file:///C:/Users/User/OneDrive/Documents/AQUA-ABS.HTML">
+ABOUT-US</a>
+</DIV>
+<DIV ID="CNT"><a href="file:///C:/Users/User/OneDrive/Documents/AQUA-CONTACT.HTML">
+CONTACT<a/>
+</DIV>
+</div><BR><BR>
+<MARQUEE>
+ MAHI AQUARIUM SERVICES AND MAINTENANCE ⛑ , 
+WE PROVIDE THE BEST SERVICE AND MAINTENANCE OF AQUARIUM... SERVICE AVAILABLE OVER MUMBAI,THANE. FOR MORE DETAILS GO TO THE LINKS
+</MARQUEE><BR><BR>
+<PRE>       <IMG SRC="C:\Users\User\Downloads\AQUANO1.JPG" WIDTH="400PX" HEIGHT="200PX">            <IMG SRC="C:\Users\User\Downloads\AQUANO2.JPG" WIDTH="400PX" HEIGHT="200PX">             <IMG SRC="C:\Users\User\Downloads\AQUANO3.JPG" WIDTH="400PX" HEIGHT="200PX">
+  
+
+
+        <IMG SRC="C:\Users\User\Downloads\AQUANO4.JPG" WIDTH="400PX" HEIGHT="200PX">            <IMG SRC="C:\Users\User\Downloads\AQUANO5.JPG" WIDTH="400PX" HEIGHT="200PX">             <IMG SRC="C:\Users\User\Downloads\AQUANO6.JPG" WIDTH="400PX" HEIGHT="200PX">
+</PRE>
+
+CONTACT US ON SHAIKHSHAIBAN1@GMAIL.COM 
+</BODY>
